@@ -13,7 +13,7 @@ Update: You should now use <a href="https://github.com/lucidrains/st-moe-pytorch
 ## Install
 
 ```bash
-$ pip install mixture_of_experts
+pip install mixture_of_experts
 ```
 
 ## Usage
